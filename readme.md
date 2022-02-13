@@ -28,8 +28,4 @@ MIT
 ## Instructions
 * Clone repo
 * npm i to install dependancies
-* Create an .env file to put in database name, your sql username, and your sql password like the example below
-* Run mysql -u root -p and enter password
-* Run source db/schema.sql, then quit out of mysql
-* Run npm run seed
-* Run node server.js
+* Create an .env file to put in database name, your sql username, and your sql password
